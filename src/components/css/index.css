@@ -1,0 +1,124 @@
+body {
+    background-color:#F6F6F6;
+}
+
+#root .grid {
+    margin-top: 20px;
+}
+#root .comments-section div form .comment-border {
+    border:5px solid #333!important
+}
+
+#root .grid div div a {
+    color: #5cb85c;
+} 
+
+#root .grid div div.pagination a {
+    font-size: larger;
+} 
+
+#root .grid div div a .active {
+    border-color: #5cb85c;
+}
+
+#root .grid div div a .active {
+    border-color: #5cb85c;
+}
+
+#root .grid .fifteen .comments-section .comment-border {
+    border: 0px solid green!important;
+}
+
+.item{
+    color: lightgreen;
+}
+.content .header a {
+    color: #5cb85c;
+    font-style: italic;
+    font-size: initial;
+}
+
+.text-center {
+    text-align: center;
+}
+.loading {
+    text-align: center;
+    background-color: lime;
+}
+.text-break {
+    word-break: break-all;
+}
+
+.banner {
+    width: 100%;
+    background-color:#817E7E;
+    color:white;
+}
+
+.banner > .content {
+    padding:2% 0 2% 10% 
+}
+
+
+.article-taglist-ul{
+    list-style: none;
+    padding-left: 0px;
+}
+
+.article-taglist-li {
+    border: 1px solid;
+    display: inline;
+    border-radius: 7px;
+    padding: 4px;
+    cursor: pointer;
+    margin-right: 1%;
+}
+
+.article-taglist-li.danger:hover {
+    border-color: red;
+    color: red;
+}
+.article-taglist-li.success:hover {
+    border-color: green;
+    color: green;
+}
+
+.article-body{
+    margin-top:5%;
+}
+
+.article-details {
+    margin-left: 30%;
+}
+
+.comments-article-section {
+    margin-top:5%;
+    text-align: center;
+}
+.comments-section {
+    margin-left:10%;
+    margin-right:10%;
+}
+
+.div-inline {
+    display:inline;
+}
+.comment-border {
+    border:1px solid #333!important;
+    margin-top:1%;
+    border-radius: 3px;
+}
+
+.display-right{
+    float:right;
+}
+.color-grey {
+    color:#333;
+}
+
+.mouse-pointer {
+    cursor: pointer;
+}
+.pagination {
+    margin-top:5%;
+}
